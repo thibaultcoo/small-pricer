@@ -9,3 +9,6 @@ Computing Greeks by Finite Difference using Monte Carlo Simulation and Variance 
 https://engineering.nyu.edu/sites/default/files/2018-08/CarrMadan2_0.pdf
 
 https://www.math.hkust.edu.hk/~maykwok/piblications/Handbook_chapter.pdf
+
+https://realpython.com/python-scipy-fft/
+
