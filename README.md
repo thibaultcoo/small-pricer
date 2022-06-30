@@ -12,3 +12,6 @@ https://www.math.hkust.edu.hk/~maykwok/piblications/Handbook_chapter.pdf
 
 https://realpython.com/python-scipy-fft/
 
+Successful algorithmic trading pdf
+
+Python for algorithmic trading pdf
